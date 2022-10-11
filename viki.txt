@@ -1,0 +1,3 @@
+Actions act=new Actions(driver);
+		Thread.sleep(5000);
+		act.sendKeys(Keys.ARROW_DOWN).build().perform();

@@ -1,0 +1,150 @@
+testing the software or application reapeatly again and again manually in order to find a defect in the software accourdin to the customer requirement is called as maunal testing
+test engineer write the code or script or program by using tools like selenium and qtp and run the program against to the application the  tool or program automatically test the application whe give result as a pass or fail is called as automation testing
+advantage of manual testing:
+software qulaity is good 
+program knowledge is not required
+disadavatages of manual testing:
+resource utlization is more
+there will be no consistancy
+time taken will be more
+its tedious and monotonus job
+defect tracking tool:
+defect tracking tool is a software 
+which is used to mainly for stored or track the defect in centralized place
+and communicate defect with developers in organised way
+stages of stlc:
+system study
+prepare test plan
+write test case
+prepare traceablity matrix
+test execution
+defect tracking
+prepare test execution 
+retrospective meeting
+write test case procedure:
+system study
+identify the all the possible scenarios
+write test case
+testcase review
+fix the review
+verify the fix
+testcase approval
+store it in testcase 
+stages of sdlc:
+requirement collection
+feasibility studying
+design
+coding 
+testing
+installization
+maintanence
+types of sdlic:
+waterfall model
+spiral model
+v&v model
+prototype model
+customized modeel
+hybrid model
+agile model
+types of software testing:
+black box testing
+white box testing
+white box testing:
+path testing
+conditional testig
+loop testing
+white box testing memory point of view
+white box testing performance point view
+black box testing:
+functionality testing
+integration testing
+system testing
+acceptance testing
+usablility testing
+performance testing
+smoke testing
+ad-hoc testing
+accessablity testing
+reliablity testing
+exploratory testing
+comapatability testing
+l10n tsting
+l18n testing
+four types of severity :
+blocker 
+crictical
+major
+minor
+three types of priority :
+high priority
+medium priority
+low priority
+defect:
+any feature is not working accourding to the customer requirement is called as defect
+deviation from the requirement specification is called as defect
+error found in the sotware or application is called as defect
+bugs:
+its infomal name given to the defect
+error:
+itis mistake done by the program which will not able to run the program and excute the program
+failure:
+defect in the software its leads to failure
+failure the word is used to enduser and customer
+defect status:
+new/open
+assign
+duplicate
+postpone/defered
+can't be fixed
+it's not a defect
+issue is not reproduceable
+request for enhacements
+fixed
+closed
+reopen
+defect report:
+release id
+build id
+build no
+requirement number
+testcasetype
+assign to
+reporter
+status
+severity
+priority
+testdata
+test url
+brifely description
+testcasename
+componentname
+browser description
+expected result
+actual result
+screenshot
+cc
+submit
+ok
+cancel
+testcase:
+its a document which contains the all the possiple scenarios for specific requirement
+which contains different sections be like
+step number
+actin and description
+input
+expected result
+actual result
+status 
+comment
+design tecnique:
+it's technique which is used to while writing the tesecase in order to improve tha tescoverage
+types of design technique:
+error guessing
+equivalence class partion
+.pressman rule
+.practice method
+boundry value analysis
+traceability metrix:
+it's a document which will make sure that every requirement has got adleast one testcase is called as traceability matrix
+also called as cross reference matrix
+
